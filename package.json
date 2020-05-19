@@ -21,5 +21,13 @@
   "description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
   "main": "rollup.config.js",
   "author": "Eduardo <duh.o.moreira@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duhhmoreira/exemplo-duhh-moreira.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duhhmoreira/exemplo-duhh-moreira/issues"
+  },
+  "homepage": "https://github.com/duhhmoreira/exemplo-duhh-moreira#readme"
 }
